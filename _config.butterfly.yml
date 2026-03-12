@@ -329,7 +329,7 @@ aside:
     enable: true
     # Type: monthly / yearly
     type: monthly
-    # Eg: YYYYÂπ¥MMÊú?
+    # Eg: YYYYÂπ¥MMÊúà
     format: MMMM YYYY
     # Sort of order. 1, asc for ascending; -1, desc for descending
     order: -1
@@ -365,15 +365,15 @@ rightside_bottom:
 translate:
   enable: false
   # The text of a button
-  default: Áπ?
-  # the language of website (1 - Traditional Chinese/ 2 - Simplified ChineseÔº?
+  default: ÁπÅ
+  # the language of website (1 - Traditional Chinese/ 2 - Simplified ChineseÔºâ
   defaultEncoding: 2
   # Time delay
   translateDelay: 0
   # The text of the button when the language is Simplified Chinese
-  msgToTraditionalChinese: 'Áπ?
+  msgToTraditionalChinese: 'ÁπÅ'
   # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: 'Á∞?
+  msgToSimplifiedChinese: 'Á∞°'
 
 # Read Mode
 readmode: true
