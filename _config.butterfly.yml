@@ -56,7 +56,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/avatar.jpg
   effect: false
 
 # Disable all banner images
@@ -329,7 +329,7 @@ aside:
     enable: true
     # Type: monthly / yearly
     type: monthly
-    # Eg: YYYYÂπ¥MMÊúà
+    # Eg: YYYYÂπ¥MMÊú?
     format: MMMM YYYY
     # Sort of order. 1, asc for ascending; -1, desc for descending
     order: -1
@@ -365,15 +365,15 @@ rightside_bottom:
 translate:
   enable: false
   # The text of a button
-  default: ÁπÅ
-  # the language of website (1 - Traditional Chinese/ 2 - Simplified ChineseÔºâ
+  default: Áπ?
+  # the language of website (1 - Traditional Chinese/ 2 - Simplified ChineseÔº?
   defaultEncoding: 2
   # Time delay
   translateDelay: 0
   # The text of the button when the language is Simplified Chinese
-  msgToTraditionalChinese: 'ÁπÅ'
+  msgToTraditionalChinese: 'Áπ?
   # The text of the button when the language is Traditional Chinese
-  msgToSimplifiedChinese: 'Á∞°'
+  msgToSimplifiedChinese: 'Á∞?
 
 # Read Mode
 readmode: true
