@@ -1,0 +1,3 @@
+title: 西辞的奇思妙想  
+author: 西辞  
+language: zh-CN 
