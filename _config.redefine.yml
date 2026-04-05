@@ -63,22 +63,22 @@ navbar:
     right: "#eef4ff"
     transparency: 30
   links:
-    Home:
+    首页:
       path: /
       icon: fa-regular fa-house
-    Archives:
+    归档:
       path: /archives/
       icon: fa-regular fa-box-archive
-    Categories:
+    分类:
       path: /categories/
       icon: fa-regular fa-folder-open
-    Tags:
+    标签:
       path: /tags/
       icon: fa-regular fa-tags
-    Navigation:
+    导航站:
       path: https://xc-daohang.ccwu.cc/
       icon: fa-regular fa-compass
-    Contact:
+    联系我:
       path: mailto:xc-blog@xczsbz.33mail.com
       icon: fa-regular fa-envelope
   search:
@@ -93,19 +93,19 @@ home:
     announcement: 欢迎来到我的博客
     show_on_mobile: true
     links:
-      Archives:
+      归档:
         path: /archives/
         icon: fa-regular fa-box-archive
-      Categories:
+      分类:
         path: /categories/
         icon: fa-regular fa-folder-open
-      Tags:
+      标签:
         path: /tags/
         icon: fa-regular fa-tags
-      Navigation:
+      导航站:
         path: https://xc-daohang.ccwu.cc/
         icon: fa-regular fa-compass
-      Contact:
+      联系我:
         path: mailto:xc-blog@xczsbz.33mail.com
         icon: fa-regular fa-envelope
   article_date_format: YYYY-MM-DD
