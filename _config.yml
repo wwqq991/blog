@@ -82,6 +82,11 @@ include:
 exclude:
 ignore:
 
+search:
+  path: search.xml
+  field: post
+  content: true
+
 # Extensions
 theme: redefine
 

@@ -67,17 +67,20 @@ navbar:
       path: /
       icon: fa-regular fa-house
     Archives:
-      path: /archives
+      path: /archives/
       icon: fa-regular fa-box-archive
     Categories:
-      path: /categories
+      path: /categories/
       icon: fa-regular fa-folder-open
     Tags:
-      path: /tags
+      path: /tags/
       icon: fa-regular fa-tags
     Contact:
       path: mailto:xc-blog@xczsbz.33mail.com
       icon: fa-regular fa-envelope
+  search:
+    enable: true
+    preload: true
 
 home:
   sidebar:
@@ -88,13 +91,13 @@ home:
     show_on_mobile: true
     links:
       Archives:
-        path: /archives
+        path: /archives/
         icon: fa-regular fa-box-archive
       Categories:
-        path: /categories
+        path: /categories/
         icon: fa-regular fa-folder-open
       Tags:
-        path: /tags
+        path: /tags/
         icon: fa-regular fa-tags
       Contact:
         path: mailto:xc-blog@xczsbz.33mail.com
@@ -151,3 +154,11 @@ footer:
   runtime: false
   statistics: false
   customize: '联系我：<a href="mailto:xc-blog@xczsbz.33mail.com">xc-blog@xczsbz.33mail.com</a>'
+
+page_templates:
+  tags_style: cloud
+
+inject:
+  enable: true
+  head:
+    - '<style>.social-contacts{display:none !important;}</style>'
