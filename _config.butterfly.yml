@@ -287,9 +287,9 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      icon: fas fa-envelope
+      text: Email Me
+      link: mailto:xc-blog@xczsbz.33mail.com
   card_announcement:
     enable: true
     content: This is my Blog
