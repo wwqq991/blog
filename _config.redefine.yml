@@ -75,6 +75,9 @@ navbar:
     Tags:
       path: /tags/
       icon: fa-regular fa-tags
+    Navigation:
+      path: https://xc-daohang.ccwu.cc/
+      icon: fa-regular fa-compass
     Contact:
       path: mailto:xc-blog@xczsbz.33mail.com
       icon: fa-regular fa-envelope
@@ -99,6 +102,9 @@ home:
       Tags:
         path: /tags/
         icon: fa-regular fa-tags
+      Navigation:
+        path: https://xc-daohang.ccwu.cc/
+        icon: fa-regular fa-compass
       Contact:
         path: mailto:xc-blog@xczsbz.33mail.com
         icon: fa-regular fa-envelope
