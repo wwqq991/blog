@@ -75,6 +75,9 @@ navbar:
     Tags:
       path: /tags
       icon: fa-regular fa-tags
+    Contact:
+      path: mailto:xc-blog@xczsbz.33mail.com
+      icon: fa-regular fa-envelope
 
 home:
   sidebar:
@@ -93,6 +96,9 @@ home:
       Tags:
         path: /tags
         icon: fa-regular fa-tags
+      Contact:
+        path: mailto:xc-blog@xczsbz.33mail.com
+        icon: fa-regular fa-envelope
   article_date_format: YYYY-MM-DD
   excerpt_length: 180
   categories:
@@ -144,4 +150,4 @@ comment:
 footer:
   runtime: false
   statistics: false
-  customize: 西辞的个人博客
+  customize: '联系我：<a href="mailto:xc-blog@xczsbz.33mail.com">xc-blog@xczsbz.33mail.com</a>'
