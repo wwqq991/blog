@@ -81,6 +81,9 @@ navbar:
     联系我:
       path: mailto:xc-blog@xczsbz.33mail.com
       icon: fa-regular fa-envelope
+    Telegram 群组:
+      path: https://t.me/+nf7asoGyU8cyNTMx
+      icon: fa-brands fa-telegram
   search:
     enable: true
     preload: true
@@ -108,6 +111,9 @@ home:
       联系我:
         path: mailto:xc-blog@xczsbz.33mail.com
         icon: fa-regular fa-envelope
+      Telegram 群组:
+        path: https://t.me/+nf7asoGyU8cyNTMx
+        icon: fa-brands fa-telegram
   article_date_format: YYYY-MM-DD
   excerpt_length: 180
   categories:
@@ -159,7 +165,7 @@ comment:
 footer:
   runtime: false
   statistics: false
-  customize: '联系我：<a href="mailto:xc-blog@xczsbz.33mail.com">xc-blog@xczsbz.33mail.com</a>'
+  customize: '联系我：<a href="mailto:xc-blog@xczsbz.33mail.com">xc-blog@xczsbz.33mail.com</a> · <a href="https://t.me/+nf7asoGyU8cyNTMx" target="_blank" rel="noopener">Telegram 群组</a>'
 
 page_templates:
   tags_style: cloud
