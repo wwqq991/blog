@@ -50,7 +50,7 @@ tags:
 
 可以用真实地址生成器：<https://ip-geoaddress-generator.pages.dev/>
 
-更多工具也可以看看我的导航站：<https://xc-daohang.ccwu.cc/?page=bookmarks>
+更多工具也可以看看我的导航站：<https://dh.xcfake150.asia/?page=bookmarks>
 
 cloudflare 真是大善人。
 

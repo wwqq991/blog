@@ -12,7 +12,7 @@ language: zh-CN
 timezone: ''
 
 # URL
-url: https://xc-blog.ccwu.cc
+url: https://blog.xcfake150.asia
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

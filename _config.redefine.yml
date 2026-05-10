@@ -2,7 +2,7 @@ info:
   title: 西辞的奇思妙想
   subtitle: 记录折腾、教程和一些奇思妙想
   author: 西辞
-  url: https://xc-blog.ccwu.cc
+url: https://blog.xcfake150.asia
 
 defaults:
   favicon: /images/avatar.jpg
@@ -73,7 +73,7 @@ navbar:
       path: /tags/
       icon: fa-regular fa-tags
     导航站:
-      path: https://xc-daohang.ccwu.cc/
+      path: https://dh.xcfake150.asia/
       icon: fa-regular fa-compass
     联系我:
       path: mailto:xc-blog@xczsbz.33mail.com
@@ -103,7 +103,7 @@ home:
         path: /tags/
         icon: fa-regular fa-tags
       导航站:
-        path: https://xc-daohang.ccwu.cc/
+        path: https://dh.xcfake150.asia/
         icon: fa-regular fa-compass
       联系我:
         path: mailto:xc-blog@xczsbz.33mail.com
