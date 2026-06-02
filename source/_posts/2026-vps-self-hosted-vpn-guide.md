@@ -56,9 +56,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 
 最后会输出一段类似这样的内容：
 
-```
-AgACAgEAAyEGAATgHtSGAAPCah7wBXySQP5YF1cRlJ7efHJNtyUAAigMaxsaKvlE2VYFFqLvNWoBAAMCAAN4AAM7BA
-```
+![部署完成输出](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAPMah75Txr4j7f6d7Ofjueb1474AboAAjQMaxsaKvlE6m0nTW20tC0BAAMCAAN4AAM7BA.jpg)
 
 （里面的内容我删了一部分，实际上更长所以不要试图登陆我的后台了）
 
