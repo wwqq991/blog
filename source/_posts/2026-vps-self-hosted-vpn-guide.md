@@ -1,6 +1,7 @@
 ---
 title: 关于VPS自建VPN的教程
 date: 2026-06-02 20:30:00
+password: xczs66
 categories:
   - 折腾
   - 网络
