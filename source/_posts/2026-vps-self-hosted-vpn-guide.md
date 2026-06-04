@@ -1,5 +1,5 @@
 ---
-title: 关于VPS自建VPN的教程
+title: 关于VPS自建项目的教程
 date: 2026-06-02 20:30:00
 password: xczs66
 categories:
@@ -7,7 +7,6 @@ categories:
   - 网络
 tags:
   - VPS
-  - VPN
   - 3x-ui
   - Reality
   - vpngate
