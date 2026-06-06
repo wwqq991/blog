@@ -1,6 +1,7 @@
 ---
 title: 关于 Obsidian：最适合配合 AI 使用的笔记软件
 date: 2026-04-07 22:10:00
+updated: 2026-04-07 22:10:00
 categories:
   - 效率工具
   - AI

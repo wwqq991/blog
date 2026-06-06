@@ -1,6 +1,7 @@
 ---
 title: gemma4 越狱模型
 date: 2026-05-10 15:49:31
+updated: 2026-05-10 15:49:31
 categories:
   - AI工具
   - 教程

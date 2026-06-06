@@ -1,6 +1,7 @@
 ---
 title: 免费域名配合 cloudflare 实现的域名邮箱
 date: 2026-06-06 04:30:00
+updated: 2026-06-06 04:30:00
 categories:
   - 教程
   - 网络

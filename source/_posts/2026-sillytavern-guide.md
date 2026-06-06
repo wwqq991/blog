@@ -1,6 +1,7 @@
 ---
 title: 6250字SillyTavern 超详细部署教程：Windows + 安卓完整安装指南，新手也能看懂
 date: 2026-04-01 19:02:00
+updated: 2026-04-01 19:02:00
 categories:
   - AI工具
   - 教程
