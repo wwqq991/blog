@@ -12,7 +12,7 @@ tags:
   - Codex
 ---
 
-文章发在 [免费 ChatGPT Team 开通使用教程 - 科技与创作 / AI - NodeLoc](https://www.nodeloc.com/)
+文章发在 [免费 ChatGPT Team 开通使用教程 - 科技与创作 / AI - NodeLoc](https://www.nodeloc.com/t/topic/87366?filter=activity)
 
 此处转载＋我自己的使用流程
 
