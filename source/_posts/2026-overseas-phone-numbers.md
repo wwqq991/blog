@@ -1,7 +1,7 @@
 ---
 title: 海外手机号相关
 date: 2026-06-04 12:00:00
-updated: 2026-06-04 12:00:00
+updated: 2026-06-10 11:45:00
 categories:
   - 效率工具
   - 折腾
@@ -82,7 +82,7 @@ tags:
 
 ### 申请（对于无原生 eSIM 的安卓手机）
 
-1. 安装元萝卜：[发行作品 · Katana 官方 / SPatch 更新](https://spatch.nekox.me/)
+1. 安装元萝卜：[发行作品 · Katana 官方 / SPatch 更新](https://github.com/Katana-Official/SPatch-Update/releases)
 2. 在元萝卜内安装特定版本的 giffgaff：[giffgaff 19.12.0 (nodpi) (Android 7.0+) APK](https://www.apkmirror.com/apk/giffgaff-limited/giffgaff/giffgaff-19-12-0-release/)
 3. 在元萝卜内安装 HookEuicc 进行伪装：[Unicorn369/HookEuicc](https://github.com/Unicorn369/HookEuicc) — 伪装支持 eSIM，获取 eSIM 激活码。**记得打开最上面的条目。**
 4. 在元萝卜安装一个浏览器（注册 giffgaff 时需要跳转浏览器），比如 Via 等轻量化浏览器：[Via 浏览器](https://res.viayoo.com/v1/via-release-cn.apk)
