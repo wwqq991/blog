@@ -10,6 +10,8 @@ tags:
   - Google Voice
   - giffgaff
   - codsim
+  - saily
+  - esim.gg
   - Lyca
   - 保号
 ---
