@@ -1,7 +1,7 @@
 ---
 title: 海外手机号相关
 date: 2026-06-04 12:00:00
-updated: 2026-06-13 05:00:00
+updated: 2026-06-14 10:30:00
 categories:
   - 效率工具
   - 折腾
@@ -13,6 +13,7 @@ tags:
   - saily
   - esim.gg
   - Lyca
+  - 沃达丰
   - 保号
 ---
 
@@ -164,3 +165,89 @@ T-Mobile 线路，100 分钟通话，100 条短信，100MB 流量。
 **保号：** 官方规则每年链接一次基站即可。
 
 > 注意：这个号码我没自己试过，谨慎购买。
+
+## 9. 英国沃达丰
+
+理论上不要钱。
+
+**优点：** 免费。
+
+**网站：** [https://t.co/nfRG2vwz4v](https://t.co/nfRG2vwz4v)
+
+**价格：** 仅 0.01 欧元验证卡片。
+
+**要求：** 有个能付款的卡。
+
+**缺点：** 属于是钻空子白嫖，可能不稳定。
+
+**保号：** 理论上不需要。
+
+### 9.1 教程
+
+无痕窗口打开：[https://t.co/nfRG2vwz4v](https://t.co/nfRG2vwz4v)
+
+需要打开两个相同的窗口。有些浏览器报错，可以换浏览器试试。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAPvai6ByH94y65nTYtXTiLqofy9BHAAAsILaxuZ4XFFfe9nQwURMEwBAAMCAAN3AAM8BA.png)
+
+点击 pay as you go sim only。
+
+不登陆，往下划。选择左起第一个。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAPwai6B8tD7HVqEHhWc6XcyoPx2-vMAAsMLaxuZ4XFF3zJ8EivHRgABAQADAgADdwADPAQ.png)
+
+点击选择计划。
+
+此时来到刚才打开的第二个窗口，刷新窗口。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAPxai6CS-VAXgcTrkNT2Dj_ZPKQi_EAAsQLaxuZ4XFF_-IGyeEgXpwBAAMCAAN3AAM8BA.png)
+
+长这样。
+
+点击上方仅限 sim，按月支付 sim 卡。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAPyai6CdpKRcGxwa77ixkT4kV57QqsAAsULaxuZ4XFFD4gpvNpeib8BAAMCAAN3AAM8BA.png)
+
+往下划，点击左起第一个。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAPzai6Co719Y0nRwS2vaGHo_j6acP8AAsYLaxuZ4XFFSMmEAyc5pxkBAAMCAAN3AAM8BA.png)
+
+确认两个都在。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAP0ai6C1RVWEzzmpeqgwMYVVU3n3D0AAscLaxuZ4XFFMPBE62VB6RcBAAMCAAN5AAM8BA.png)
+
+回到第一个页面，刷新。
+
+点击删除包裹 1，撤销。
+
+再点击删除包裹 2，不撤销。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAP1ai6DCJS5VJUpDESSSkrky8Vu-wQAAsgLaxuZ4XFFehyFVJyhdL4BAAMCAAN5AAM8BA.png)
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAP2ai6DWEzkp4gnb5uKgor5qoAMA3IAAskLaxuZ4XFFZfFRJMxd3n0BAAMCAAN5AAM8BA.png)
+
+点击刷新。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAP3ai6Dd2NgdM3gPZVhNKZhSM_YX5EAAsoLaxuZ4XFFIFwel8Z32W4BAAMCAAN5AAM8BA.png)
+
+见到此页面则为成功。
+
+选择你的 sim 卡，点击 esim。
+
+点击最下方继续。
+
+![](https://image.xcfake150.asia/file/AgACAgEAAyEGAATgHtSGAAP4ai6DnND81woxJfOoexYDwvvpBGsAAssLaxuZ4XFF88aGYwS0K5oBAAMCAAN4AAM8BA.png)
+
+填写信息。
+
+邮箱填自己的，后续收二维码之类的要用。
+
+名字姓氏最好和你一会付款卡的名字一样（其实我不一样也过了）。
+
+电话可以填真的也可以随便填，我填的 [上面](https://blog.xcfake150.asia/2026/06/04/2026-overseas-phone-numbers/) 提到的 saily 手机号。
+
+注意！生日不能随便写，要写一个你能记住的，后续发 esim 二维码邮件的密码是你的生日。
+
+剩下没什么好说的，可以来此处获取真实的 uk 邮编：[https://real-generator.com/zh/address/united-kingdom](https://real-generator.com/zh/address/united-kingdom)
+
+绑定一张卡，即可白嫖成功。
