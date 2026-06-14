@@ -1,7 +1,7 @@
 ---
 title: 海外手机号相关
 date: 2026-06-04 12:00:00
-updated: 2026-06-14 10:30:00
+updated: 2026-06-14 10:45:00
 categories:
   - 效率工具
   - 折腾
@@ -251,3 +251,5 @@ T-Mobile 线路，100 分钟通话，100 条短信，100MB 流量。
 剩下没什么好说的，可以来此处获取真实的 uk 邮编：[https://real-generator.com/zh/address/united-kingdom](https://real-generator.com/zh/address/united-kingdom)
 
 绑定一张卡，即可白嫖成功。
+
+关于激活，可以用 giffgaff 的流量进行激活，如果你两个卡写一起了，不能同时用（比如我）也可以通过电脑开英国节点共享给手机使用，从而实现激活。没英国节点的看：[https://candytally.pro/web/#/login?code=91uDUcxD](https://candytally.pro/web/#/login?code=91uDUcxD) 实测可用。
