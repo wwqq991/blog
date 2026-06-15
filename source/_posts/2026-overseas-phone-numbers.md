@@ -1,7 +1,7 @@
 ---
 title: 海外手机号相关
 date: 2026-06-04 12:00:00
-updated: 2026-06-15 07:30:00
+updated: 2026-06-15 07:45:00
 categories:
   - 效率工具
   - 折腾
@@ -253,6 +253,20 @@ T-Mobile 线路，100 分钟通话，100 条短信，100MB 流量。
 绑定一张卡，即可白嫖成功。
 
 关于激活，可以用 giffgaff 的流量进行激活，如果你两个卡写一起了，不能同时用（比如我）也可以通过电脑开英国节点共享给手机使用，从而实现激活。没英国节点的看：[https://candytally.pro/web/#/login?code=91uDUcxD](https://candytally.pro/web/#/login?code=91uDUcxD) 实测可用。
+
+## 10. banana esim
+
+相较于 lucky2 这种，限速 512kbps 拿来防失联和日常使用也还说得过去，比 128kbps 舒服不少。
+
+**优点：** 一年无限流量。
+
+**缺点：** 限速 512kbps。
+
+**要求：** 能用 eSIM 就行。
+
+**保号：** 纯流量，不用保号。
+
+**网站：** [https://www.bananatravelsim.com/products/esim-365days-offer](https://www.bananatravelsim.com/products/esim-365days-offer)
 
 ## 如果看完也不会
 
