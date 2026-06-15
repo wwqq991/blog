@@ -1,7 +1,7 @@
 ---
 title: 海外手机号相关
 date: 2026-06-04 12:00:00
-updated: 2026-06-14 10:45:00
+updated: 2026-06-15 07:30:00
 categories:
   - 效率工具
   - 折腾
@@ -253,3 +253,18 @@ T-Mobile 线路，100 分钟通话，100 条短信，100MB 流量。
 绑定一张卡，即可白嫖成功。
 
 关于激活，可以用 giffgaff 的流量进行激活，如果你两个卡写一起了，不能同时用（比如我）也可以通过电脑开英国节点共享给手机使用，从而实现激活。没英国节点的看：[https://candytally.pro/web/#/login?code=91uDUcxD](https://candytally.pro/web/#/login?code=91uDUcxD) 实测可用。
+
+## 10. 如果看完也不会
+
+看完可以联系我帮忙，不过不都是免费的
+
+链接：[https://t.me/listkiro](https://t.me/listkiro)  添加需说明来意
+
+大可以放心来加，简单问题会免费帮忙的
+
+如果加了没同意，就来群里问，看见会回复的
+
+[https://t.me/+_S_CXJ3A5fs3MGNh](https://t.me/+_S_CXJ3A5fs3MGNh)
+
+另外，如果觉得本篇有用，下面有打赏链接，博客会长期更新，可以时不时来看看
+
