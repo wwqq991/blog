@@ -258,11 +258,11 @@ T-Mobile 线路，100 分钟通话，100 条短信，100MB 流量。
 
 看完可以联系我帮忙，不过不都是免费的
 
-链接：[https://t.me/listkiro](https://t.me/listkiro)  添加需说明来意
+链接：[https://t.me/listkiro](https://t.me/listkiro)
 
 大可以放心来加，简单问题会免费帮忙的
 
-如果加了没同意，就来群里问，看见会回复的
+如果发了消息没回复，就来群里问，看见会回复的
 
 [https://t.me/+_S_CXJ3A5fs3MGNh](https://t.me/+_S_CXJ3A5fs3MGNh)
 
