@@ -254,7 +254,7 @@ T-Mobile 线路，100 分钟通话，100 条短信，100MB 流量。
 
 关于激活，可以用 giffgaff 的流量进行激活，如果你两个卡写一起了，不能同时用（比如我）也可以通过电脑开英国节点共享给手机使用，从而实现激活。没英国节点的看：[https://candytally.pro/web/#/login?code=91uDUcxD](https://candytally.pro/web/#/login?code=91uDUcxD) 实测可用。
 
-## 10. 如果看完也不会
+## 如果看完也不会
 
 看完可以联系我帮忙，不过不都是免费的
 
