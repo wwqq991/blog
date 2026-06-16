@@ -1,7 +1,7 @@
 ---
 title: 关于IP与链式代理
 date: 2026-06-16 10:39:00
-updated: 2026-06-16 10:39:00
+updated: 2026-06-16 10:45:00
 password: xczs66
 categories:
   - 网络
@@ -248,7 +248,7 @@ miya目前依旧支持通过miya的服务器进行中转
 
 # 3. 结尾
 
-至此，三个静态住宅IP提供商，四种使用方法都已经介绍完毕，怎么选择就看各位的需求了。至于iOS和macos...优点懒，先不写了
+至此，四个静态住宅IP提供商，四种使用方法都已经介绍完毕，怎么选择就看各位的需求了。至于iOS和macos...优点懒，先不写了
 
 sms接码 https://user.nexsms.net/#/auth/sign-up?ref=BlneN8sK
 
