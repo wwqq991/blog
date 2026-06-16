@@ -1,3 +1,16 @@
+diff --git a/node_modules/hexo-theme-redefine/layout/pages/post/toc.ejs b/node_modules/hexo-theme-redefine/layout/pages/post/toc.ejs
+index 0d0d9df..2e4de39 100755
+--- a/node_modules/hexo-theme-redefine/layout/pages/post/toc.ejs
++++ b/node_modules/hexo-theme-redefine/layout/pages/post/toc.ejs
+@@ -3,7 +3,7 @@
+ 		<div class="toc-title"><%- __('toc') %></div>
+ 		<div class="page-title"><%= page.title %></div>
+ 		<%- toc(
+-                page.content,
++                page.encrypt ? page.origin : page.content,
+                 {
+                     class: 'nav',
+                     list_number: theme.articles.toc.number,
 diff --git a/node_modules/hexo-theme-redefine/scripts/filters/encrypt.js b/node_modules/hexo-theme-redefine/scripts/filters/encrypt.js
 index e4bcc20..36e3b07 100755
 --- a/node_modules/hexo-theme-redefine/scripts/filters/encrypt.js
